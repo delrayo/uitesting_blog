@@ -1,2 +1,1 @@
-require 'spec/expectations'
-
+require 'rspec/expectations'
